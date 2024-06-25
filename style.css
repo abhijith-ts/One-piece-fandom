@@ -1,0 +1,151 @@
+
+
+.nosifer-regular {
+    font-family: "Nosifer", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.rock-salt-regular {
+    font-family: "Rock Salt", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+#t1{
+    position: relative;
+    top:100px;
+    margin-left: 20px;
+    font-size: 7.5em;
+    font-family: 'nosifer';
+    background: linear-gradient(to bottom, white 20%, #fb00f7);
+    opacity: 1;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+}
+#t2{
+    position: relative;
+    top:-75px;
+    margin-left: 240px;
+    font-size: 5em;
+    font-weight: bolder;
+    font-family: "Rock Salt";
+    background: linear-gradient(to bottom, #7a0462 10%, #fb00f7);
+    opacity: 1;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+
+.navbar ul{
+    display: inline-block;
+    list-style-type: none;
+    background-color: rgba(0, 0, 0, 0.561);
+    width:80%;
+    padding: 0px;
+    margin: 10px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+    color: #ffffff;
+    display: inline-block;
+    padding: 30px;
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: center;
+    font-family: 'Roboto',Arial, sans-serif;
+    font-size: 1.6em;
+    font-weight:600;
+}
+.navbar li{
+    float:left;
+}
+
+.navbar a:hover{
+    background-color: #f02c7e9c;
+    border-radius: 15px;
+    color: #ffffff;
+    transform: scale(1.1);
+}
+
+
+
+.logo{
+    display: inline-block;
+    margin: 20px;
+}
+
+
+.open-sans-open {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.desc{
+    position:relative;
+    font-size: 1.7em;
+    margin-left: 40px;
+    color: #ffffff;
+    top:-45px;
+
+}
+
+.sail{
+    position:relative;
+    font-size: 2.3em;
+    margin-left: 40px;
+    color: #ffffff;
+    top:20px;
+    font-family: "Rock Salt";
+
+
+}
+
+#abt{
+    position: relative;
+    font-size: 4em;
+    margin-left: 5%;
+    font-family: "Rock Salt";
+    font-weight: bolder;
+
+}
+.abt_cont{
+    position: relative;
+    margin-left: 5%;
+    color: #000000;
+    font-size: 1.4em;
+    width:90%;
+}
+.foot{
+    background-color:rgb(237, 200, 252);
+
+}
+
+#ftext{
+    color:rgb(0, 0, 0);
+    display:block;
+    width: 50%;
+    height:auto;
+    padding: 40px;
+}
+
+#team li{
+    float:left;
+    margin-left: -10px;
+    margin-top: -20px;
+    padding: 20px;
+}
